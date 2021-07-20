@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "725086690361",
+    "firebase_url": "https://test-project-20553-default-rtdb.firebaseio.com",
+    "project_id": "test-project-20553",
+    "storage_bucket": "test-project-20553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725086690361:android:150b9ea949dc66c2b7c1e8",
+        "android_client_info": {
+          "package_name": "com.signupactivity.signupactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725086690361-bg2js8itisoqggjs3ko18bl269nf66li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9y7AZDsNxzhTc-no5Vtgr-jEcsn2-EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725086690361-bg2js8itisoqggjs3ko18bl269nf66li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2470688793006998~6146698615"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725086690361:android:bdfb8d1583ffcba5b7c1e8",
+        "android_client_info": {
+          "package_name": "com.signupactivity.signupactivty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725086690361-bg2js8itisoqggjs3ko18bl269nf66li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9y7AZDsNxzhTc-no5Vtgr-jEcsn2-EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725086690361-bg2js8itisoqggjs3ko18bl269nf66li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
